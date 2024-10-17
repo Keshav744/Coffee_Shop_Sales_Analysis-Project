@@ -6,7 +6,7 @@ This project focuses on analyzing sales data from a coffee shop to gain insights
 
 2. 💰 Calculating Total Sales*: Summarizing the total revenue generated over the analyzed period to assess overall business performance.
 
-3. 📈 Evaluating Month-over-Month Changes*: Comparing sales figures month by month to identify growth trends, seasonality, or declines in sales.
+3. 📈 Evaluating Month-over-Month Changes : Analyzing sales on a monthly basis to detect growth trends , seasonal patterns , or declines in sales.
 
 4. 📍 Analyzing Sales by Location*: Assessing performance across different coffee shop locations to determine where sales are highest and identify potential areas for improvement.
 
