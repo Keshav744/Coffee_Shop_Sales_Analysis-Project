@@ -12,7 +12,7 @@ This project focuses on analyzing sales data from a coffee shop to gain insights
 
 5. 🛍️ Evaluating Sales by Product*: Identifying which products are driving sales and which may need promotional support or re-evaluation.
 
-6. 📊 Analyzing Sales by Category*: Categorizing products (e.g., beverages, snacks) to understand sales distribution and category performance.
+6. 📊 Analyzing Sales by Category*: Categorizing products Coffee,Tea,Drinking Chocolate to understand sales distribution and category performance.
 
 7. ⏰ Assessing Sales by Time*: Evaluating sales patterns based on time of day to identify peak hours and optimize staffing and inventory.
 
