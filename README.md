@@ -27,5 +27,6 @@ This project focuses on analyzing sales data from a coffee shop to gain insights
 Tools Used
 - MySQL: For data analysis and SQL queries to manipulate and extract insights from the sales data.
 - PowerPoint: For creating a visual presentation to effectively communicate the analysis and findings.
+- Power BI: Data visualization, interactive dashboard creation.
 
 This project aims to leverage data-driven insights to enhance business operations and customer experiences in the coffee shop industry.
